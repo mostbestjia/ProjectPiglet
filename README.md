@@ -1,2 +1,2 @@
 # ProjectPiglet
-<H1>Hello World!</H1>
+<H1>Hello</H1>
